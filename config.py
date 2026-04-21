@@ -1,6 +1,6 @@
 # --- API CREDENTIALS ---
 # Get this from @BotFather on Telegram
-TELEGRAM_BOT_TOKEN = "TLEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
 
 # Get this from https://www.themoviedb.org/settings/api
 TMDB_API_KEY = "TMDB_API_KEY"
