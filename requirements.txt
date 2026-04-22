@@ -1,2 +1,10 @@
-python-telegram-bot==21.1
+python-telegram-bot==20.7
 requests==2.31.0
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+tenacity==8.2.3
+aiohttp==3.9.1
+lxml==4.9.3
+fastapi==0.104.1
+uvicorn==0.24.0
